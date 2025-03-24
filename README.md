@@ -1,5 +1,4 @@
 HELLO WORLD
-LOW PROFILE.
 
 <!---
 danielmrz7/danielmrz7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
